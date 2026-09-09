@@ -1,5 +1,5 @@
-reagent-name-cola = Space Cola
-reagent-desc-cola = A sweet, carbonated soft drink.
+reagent-name-cola = Starch Cola
+reagent-desc-cola = A sweet, carbonated soft drink that puts some life into you!
 
 reagent-name-shirley-temple = Shirley Temple
 reagent-desc-shirley-temple = A favorite amongst younger members of the crew.
