@@ -60,7 +60,7 @@
   parent: DrinkCanBase
   id: DrinkColaCanBase
   name: Starch Cola can
-  description: STARCH COLA "PUT SOME LIFE INTO IT!"
+  description: Starch Cola "PUT SOME LIFE INTO IT!"
   components:
   - type: Tag
     tags:
