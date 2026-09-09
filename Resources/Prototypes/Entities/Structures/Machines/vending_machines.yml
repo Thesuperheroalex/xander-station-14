@@ -539,8 +539,8 @@
 - type: entity
   parent: VendingMachineCola
   id: VendingMachineColaRed
-  name: Space Cola Vendor
-  description: It vends cola, in space.
+  name: Starch Cola Vendor
+  description: Put some life into it!
   components:
   - type: Sprite
     sprite: Structures/Machines/VendingMachines/cola-red.rsi

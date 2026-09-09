@@ -59,8 +59,8 @@
   abstract: true
   parent: DrinkCanBase
   id: DrinkColaCanBase
-  name: Space Cola can
-  description: A sweet, carbonated soft drink.
+  name: Starch Cola can
+  description: STARCH COLA "PUT SOME LIFE INTO IT!"
   components:
   - type: Tag
     tags:
