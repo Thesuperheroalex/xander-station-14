@@ -364,8 +364,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineCigs
-  name: ShadyCigs Deluxe
-  description: If you want to get cancer, might as well do it in style.
+  name: Starch Cigarettes Machine
+  description: If you want to get cancer, might as well do it while putting some life into it!
   components:
   - type: VendingMachine
     pack: CigaretteMachineInventory
