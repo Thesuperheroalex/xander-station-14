@@ -127,3 +127,14 @@
   - type: Construction
     graph: WebObjects
     node: jumpsuit
+
+- type: entity
+  parent: [ ClothingUniformBase ]
+  id: ClothingUniformJumpsuitStarchCola
+  name: Starch Cola Jumpsuit
+  description: starch cola "put some life into it!"
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuits/Special/starchcola.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuits/Special/starchcola.rsi
