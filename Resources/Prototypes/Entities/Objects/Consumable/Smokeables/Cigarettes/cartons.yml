@@ -29,8 +29,8 @@
 - type: entity
   id: CigCartonRed
   parent: CigCartonGreen
-  name: DromedaryCo carton
-  description: A carton containing 6 packets of Dromedarycos.
+  name: Starchboros carton
+  description: A carton containing 6 packets of Starchboros.
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/red.rsi
@@ -46,8 +46,8 @@
 - type: entity
   id: CigCartonBlue
   parent: CigCartonGreen
-  name: AcmeCo carton
-  description: A carton containing 6 packets of AcmeCo.
+  name: Nanotrasen Smokes carton
+  description: A carton containing 6 packets of Nanotrasen Smokes.
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/Cartons/blue.rsi

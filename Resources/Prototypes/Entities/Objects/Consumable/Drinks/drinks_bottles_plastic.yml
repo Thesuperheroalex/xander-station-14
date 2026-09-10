@@ -82,8 +82,8 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticBaseFull]
   id: DrinkColaBottleFull
-  name: Space Cola bottle
-  description: Cola. In spaaace!
+  name: Starch Cola bottle
+  description: Starch Cola PUT SOME LIFE INTO IT!
   components:
   - type: Solution
     solution:

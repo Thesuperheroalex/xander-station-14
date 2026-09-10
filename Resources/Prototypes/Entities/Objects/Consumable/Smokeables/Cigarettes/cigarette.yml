@@ -2,7 +2,7 @@
   id: Cigarette
   parent: BaseCigar
   name: cigarette
-  description: A roll of tobacco and nicotine.
+  description: A roll of tobacco and nicotine, probably.
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Cigarettes/cigarette.rsi
