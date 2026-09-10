@@ -70,7 +70,7 @@
 - type: entity
   id: CigaretteFilter
   name: cigarette filter
-  description: A strip of week paper used as a filter for handmade cigarettes.
+  description: A strip of weak paper used as a filter for handmade cigarettes.
   suffix: Full
   parent: BaseItem
   components:
